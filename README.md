@@ -22,3 +22,4 @@
 - **历史记录**：保存翻译历史，支持查看和删除
 - **中断保存**：翻译过程中可随时停止，已翻译部分自动保存
 - **多语言**：支持中文、English、日本語、한국어、Français、Deutsch、Español、Português、Русский、العربية
+<img width="1666" height="822" alt="image" src="https://github.com/user-attachments/assets/c68ce99a-f207-4a44-883a-ace1ec6a1826" />
